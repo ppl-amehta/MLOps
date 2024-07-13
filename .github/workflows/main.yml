@@ -31,4 +31,4 @@ jobs:
         pytest
     - name: Format code with Black
       run: |
-        make format
+        format
